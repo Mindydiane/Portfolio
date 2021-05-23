@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #191970;
-    --secondary-color: #FFE4B5; 
-    --next-color: #663399;
+    --primary-color: #F0F8FF;
+    --following-color: #A6B1E1; 
+    --next-color: #F8F8FF;
     --plum-color: #dda0dd;
 }
 
@@ -10,8 +10,46 @@
     padding: 0;
     box-sizing: border-box;
 }
-.main {
+header {
     color: var(--primary-color);
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../images/paint-shore.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 70%;
+}
 
+header h1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: var(--following-color);
+}
+
+.aboutme {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: var(--next-color);
+    padding: 60px 85px
+    display: flex;
+    text-align: center;
+    background-image: url("../images/paint-wave.jpg");
+    background-attachment: fixed;
+    background-position: 85%;
+    margin: 25px 0;
+    padding: 10px 0;
+}
+
+.aboutme h3 {
+    text-align: left;
+}
+
+.aboutme div p {
+    color: var(--plum-color);
+    text-align: right;
 }
