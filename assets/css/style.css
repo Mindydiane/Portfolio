@@ -13,23 +13,52 @@
 header {
     color: var(--primary-color);
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("../images/paint-shore.jpg");
+    background-image: url("../images/black-white-circle.jpg");
     background-size: cover;
     background-attachment: fixed;
-    background-position: 70%;
+    background-position: 25%;
+    padding: 40px 35px;
+    
+   
 }
 
 header h1 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    text-align: center;
+   
+}
+
+header a {
+    text-decoration: none;
+    color: var(--following-color);
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header ul {
+    font-weight: bold;
+    display:inline;
+    margin: 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 45px 30px auto;
+    font-size: 22px;
+   
 }
 
 .main {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     color: var(--following-color);
+    margin: auto;
+    width: auto;
 }
 
 .aboutme {
@@ -38,9 +67,9 @@ header h1 {
     padding: 60px 85px
     display: flex;
     text-align: center;
-    background-image: url("../images/paint-wave.jpg");
+    background-image: url("../images/bridge_river_winter_snow.jpg");
     background-attachment: fixed;
-    background-position: 85%;
+    background-position: 50%;
     margin: 25px 0;
     padding: 10px 0;
 }
