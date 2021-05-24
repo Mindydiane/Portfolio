@@ -2,7 +2,6 @@
     --primary-color: #2092f5;
     --following-color: #3c14aa; 
     --next-color: #F8F8FF;
-    --plum-color: #d494e4;
 }
 
 *{
@@ -10,6 +9,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Header Style Start */
 header {
     color: var(--primary-color);
     font-family: Arial, Helvetica, sans-serif;
@@ -53,6 +54,7 @@ header nav ul li a {
    
 }
 
+/* About me Article style */
 .main {
     display: flex;
     flex-direction: row;
@@ -80,4 +82,33 @@ header nav ul li a {
 .aboutme div p {
     color: var(--next-color);
     text-align:left;
+}
+
+/* My work style */
+section h3 {
+    background-color: var(--following-color);
+    color: var(--next-color);
+}
+
+.mywork {
+    background-color: var(--following-color);
+    display: flex;
+    justify-content: space-between;
+}
+
+.mywork a {
+    color: var(--primary-color);
+}
+
+.mywork img {
+    border: 1px solid var(--primary-color);
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;  
+    margin: auto;
+   
+}
+
+img:hover {
+    background-color: yellow;
 }
