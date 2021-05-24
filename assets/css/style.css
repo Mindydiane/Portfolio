@@ -135,13 +135,17 @@ img:hover {
 footer {
     background-color: rgb(83, 83, 83);
     padding: 25px 15px;
+    color: var(--next-color);
 }
 
 .link {
-    color: var(--next-color);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     margin: auto;
     width: auto;
+}
+
+.link a {
+    color: var(--primary-color);
 }
