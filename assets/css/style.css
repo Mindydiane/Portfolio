@@ -119,10 +119,29 @@ img:hover {
     color: var(--next-color);
     background-image: url(../images/ladder_stage_railing_grab.jpg);
     background-position: 25%;
-    align-items: stretch;
+    margin: auto;
+}
+
+.resume h3 {
+    background-color: rgb(83, 83, 83);
 }
 
 .resume a {
     color: var(--primary-color);
     text-decoration: none;
+}
+
+/* footer style */
+footer {
+    background-color: rgb(83, 83, 83);
+    padding: 25px 15px;
+}
+
+.link {
+    color: var(--next-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    width: auto;
 }
