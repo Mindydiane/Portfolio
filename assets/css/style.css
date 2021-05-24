@@ -85,7 +85,7 @@ header nav ul li a {
 }
 
 /* My work style */
-section h3 {
+.towork {
     background-color: var(--following-color);
     color: var(--next-color);
 }
@@ -111,4 +111,18 @@ section h3 {
 
 img:hover {
     background-color: yellow;
+}
+
+/* resume section style */
+
+.resume {
+    color: var(--next-color);
+    background-image: url(../images/ladder_stage_railing_grab.jpg);
+    background-position: 25%;
+    align-items: stretch;
+}
+
+.resume a {
+    color: var(--primary-color);
+    text-decoration: none;
 }
