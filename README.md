@@ -1,11 +1,13 @@
 # Portfolio
 
-# Had issues with my laptop crashing and had to purchase a new computer and start download process over.
+-Has Nav bar when clicked takes user to area
+-Has picture in center
+-Has about me paragraph
+*Added simple grid layout to make webpage responsive
+*Added lasted work Recipe selector
 
-# tried to get as much done with the limited time due to my equipment.
-
-# Did not have a picture of myself saved in new computer, was limited.
-
-# Next challenge should go smoother due to new computer
-
-# still not sure how to copy screenshot on to readme but I have it on GitHub Live Pages.
+Deployed: https://mindydiane.github.io/Portfolio/#about-me
+</br>
+GitHub repo: https://github.com/Mindydiane/Portfolio
+</br></br>
+Published by Mindy D. Garza
