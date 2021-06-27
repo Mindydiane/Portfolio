@@ -72,6 +72,8 @@ header nav ul li a {
     color: var(--next-color);
     background-image: url("../images/stars-in-sky.jpg");
     background-position: 75%;
+    background-attachment: fixed;
+    text-align: center;
     margin: auto;
     width: auto;
 
