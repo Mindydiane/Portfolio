@@ -13,7 +13,7 @@
 
 /* Header Style Start */
 header {
-    color: var(--primary-color);
+    color: var(--next-color);
     font-family: Arial, Helvetica, sans-serif;
     background-size: cover;
     background-attachment: fixed;
@@ -76,7 +76,7 @@ header nav ul li a {
 .main {
     display: flex;
     flex-direction: row;
-    color: var(--following-color);
+    color: var(--next-color);
     margin: auto;
     width: auto;
 }
