@@ -7,7 +7,7 @@
 *Added lasted work Recipe selector
 ![image](https://user-images.githubusercontent.com/81452611/123548916-7536f180-d72c-11eb-9cd8-b38fb3419f60.png)
 </br></br>
-![mindydiane github io_Portfolio_ (1)](https://user-images.githubusercontent.com/80286982/123559428-9534d800-d761-11eb-9935-ff310d3cf125.png)
+![mindydiane github io_Portfolio_ (3)](https://user-images.githubusercontent.com/80286982/130524816-6d7dad5d-1257-4581-b033-7c4f806422e7.png)
 Deployed: https://mindydiane.github.io/Portfolio/#about-me
 </br>
 GitHub repo: https://github.com/Mindydiane/Portfolio
