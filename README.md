@@ -6,7 +6,7 @@
 *Added simple grid layout to make webpage responsive
 *Added lasted work Recipe selector
 
-![mindydiane github io_Portfolio_ (3)](https://user-images.githubusercontent.com/80286982/130524816-6d7dad5d-1257-4581-b033-7c4f806422e7.png)
+![mindydiane github io_Portfolio_ (4)](https://user-images.githubusercontent.com/80286982/137549285-e43a16ed-21d7-4530-9964-567d529d3e34.png)
 
 GitHub repo: https://github.com/Mindydiane/Portfolio
 </br>
