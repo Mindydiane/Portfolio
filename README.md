@@ -6,7 +6,7 @@ Mindy DG Full Stack Web Developer portfolio of work
 
 GitHub repo: https://github.com/Mindydiane/Portfolio
 </br>
-Deployed: https://mindydiane.github.io/Portfolio/#about-me
+Deployed live page: https://mindydiane.github.io/Portfolio/
 </br></br>
 ## Recipe Selector
 ![image](https://user-images.githubusercontent.com/81452611/123548916-7536f180-d72c-11eb-9cd8-b38fb3419f60.png)
