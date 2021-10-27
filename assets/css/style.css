@@ -60,11 +60,6 @@ header ul {
     margin: 0;
 }
 
-header ul:hover {
-    text-decoration: underline;
-    color: var(--wt);
-}
-
 header nav ul li {
     display: inline;
 }
