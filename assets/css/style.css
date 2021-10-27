@@ -1,3 +1,5 @@
+@import 'bulma/css/bulma.css';
+
 :root {
     --primary-color: #03101b;
     --following-color: #3c14aa; 
@@ -124,6 +126,17 @@ header nav ul li a {
 }
 
 /* My work style */
+
+h5 {
+    background-color: #4d97ab;
+    color: #4d004e;
+}
+
+h5:hover {
+    color: blue;
+    background-color: yellow;
+}
+
 .towork {
     color: var(--primary-color);
 }
